@@ -1,2 +1,2 @@
 # Super Intense CPU Benchmark
-Using JS and randomness, stress your CPU!
+Using JS and sorting algerithms, stress your CPU!
