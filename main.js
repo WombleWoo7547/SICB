@@ -8105,6 +8105,6 @@ function sortObjectsFromFile(data) {
 
 // Example usage: Provide the pathname to the JSON file as a command line argument
 
-for (let i = 0; i < 1000000; i++) {
+for (let i = 0; i < 10000; i++) {
   sortObjectsFromFile(cdata);
 }
